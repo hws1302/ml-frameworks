@@ -10,5 +10,5 @@ My aims:
   - [ ] how does autograd work (think DAGs)
   - [ ] gain intuition of workflow for building a model
 - [ ] build my own simple network via the docs (no tutorials!)
-- [ ] import a large model and fine tune 
+- [ ] import a large model and fine tune (transfer learning)
 - [ ] find a paper with an interesting idea and try and replicate something similar 
